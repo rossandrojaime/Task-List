@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Task List
+#
+
+projectname: Task List
+vendorid: com.mycompany
+mainmodule: com.mycompany.tasklist
